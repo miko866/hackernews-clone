@@ -1,29 +1,20 @@
-# hacker-news-client
+# Hacker news clone app
 
-## Project setup
-```
-npm install
-```
+## New Vue.js function API
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Technologies stack
 
-### Compiles and minifies for production
 ```
-npm run build
+Vue       				- 2.6.10
+vue-function-api 	- 2.0.6
 ```
 
-### Run your tests
+---
+
+## Start app
+
 ```
-npm run test
+npm start serve
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+&copy; miko866
